@@ -1,0 +1,11 @@
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\bin\Debug\net7.0\AtomORM.Core.deps.json
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\bin\Debug\net7.0\AtomORM.Core.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\bin\Debug\net7.0\AtomORM.Core.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.AssemblyInfoInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.AssemblyInfo.cs
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.csproj.CoreCompileInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\refint\AtomORM.Core.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\ref\AtomORM.Core.dll

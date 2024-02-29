@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ETQzzarP+yPHEByopPkEz5KQxKW4PNqi/Q6UrFDietnpu7x8h71lFbCqkoEdiXbb4G56H4jnZH7mKXpOzX4NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\temok\\Desktop\\AtomORM\\AtomORM.DependencyInjection\\AtomORM.DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\temok\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
