@@ -8,7 +8,9 @@ namespace AtomORM.Core;
 public class AtomContext
 {
     private readonly string _connectionString;
-    private IDbConnection Connection { get; set; }
+
+    private readonly Dictionary<Type, List<EntityEntry>> _trackedEntities = new();
+    private DatabaseService _databaseService;
     protected AtomContext(AtomContextOptions options)
     {
         if (string.IsNullOrEmpty(options.ConnectionString))
@@ -16,7 +18,7 @@ public class AtomContext
             throw new ArgumentException("Invalid connection string format");
         }
         _connectionString = options.ConnectionString;
-        Connection = new SqlConnection(_connectionString);
+        _databaseService = new DatabaseService(_connectionString);
     }
     public void GetConnectionString()
     {
@@ -53,7 +55,7 @@ public class AtomContext
     private List<object> CreateAtomEntityInstances()
     {
         var properties = GetAtomEntityProperties();
-        List<object> instances = new();
+        var instances = new List<object>();
         
         foreach (var p in properties)
         {
@@ -69,36 +71,47 @@ public class AtomContext
 
     private List<PropertyInfo> GetAtomEntityProperties()  {
         var properties = GetType().GetProperties();
-        List<PropertyInfo> entities = new();
-        
-        foreach (var p in properties)
+
+        return properties.Where(p => p.PropertyType.IsGenericType && p.PropertyType.GetGenericTypeDefinition() == typeof(AtomEntity<>)).ToList();
+    }
+     
+    public AtomEntity<TEntity> GetEntity<TEntity>() where TEntity : class
+    {
+        if (_trackedEntities.TryGetValue(typeof(TEntity), out var entries))
+            return new AtomEntity<TEntity>(this, entries);
+        entries = new List<EntityEntry>();
+        _trackedEntities[typeof(TEntity)] = entries;
+
+        return new AtomEntity<TEntity>(this, entries);
+    }
+
+    public void SaveChanges()
+    {
+        foreach (var entityType in _trackedEntities.Keys)
         {
-            if (p.PropertyType.IsGenericType && p.PropertyType.GetGenericTypeDefinition() == typeof(AtomEntity<>))
+            var entries = _trackedEntities[entityType];
+            foreach (var entry in entries)
             {
-                entities.Add(p);
+                switch (entry.State)
+                {
+                    case EntityState.Added:
+                        // Add entity to the database
+                        Console.WriteLine($"Adding entity of type {entityType.Name}");
+                        break;
+                    case EntityState.Modified:
+                        // Update entity in the database
+                        Console.WriteLine($"Updating entity of type {entityType.Name}");
+                        break;
+                    case EntityState.Deleted:
+                        // Delete entity from the database
+                        Console.WriteLine($"Deleting entity of type {entityType.Name}");
+                        break;
+                }
             }
         }
 
-        return entities;
+        _trackedEntities.Clear();
     }
-     
-    // Manage database connection
-    public void OpenConnection()
-    {
-        if (Connection.State != ConnectionState.Open)
-        {
-            Connection.Open();
-        }
-    }
-
-    public void CloseConnection()
-    {
-        if (Connection.State != ConnectionState.Closed)
-        {
-            Connection.Close();
-        }
-    }
-    
     
     private static string MapCSharpTypeToSqlType(Type csharpType)
     {

@@ -22,6 +22,12 @@ public class WeatherForecastController : ControllerBase
         _testAtomContext.GetConnectionString();
         
         _testAtomContext.MapEntities();
+        
+        _testAtomContext.stringProperty.Add(new Person
+        {
+            name = "Temo",
+            age = 20,
+        });
         return Ok();
     }
 }

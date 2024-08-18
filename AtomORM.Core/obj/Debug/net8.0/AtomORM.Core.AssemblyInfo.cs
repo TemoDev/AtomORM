@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtomORM.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ae15cf4b1cf1fab6ab6acf30d2c59262b965aeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c63dfa5d8cf8d75e9afb05cd9c0b85bdfee2877")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtomORM.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtomORM.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
