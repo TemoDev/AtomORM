@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddAtomContext<TestAtomContext>(options => options.SetConnectionString("Amazing Connection string to SQL"));
+builder.Services.AddAtomContext<TestAtomContext>(options => options.SetConnectionString("Data Source=(localdb)/MSSQLLocalDB;Initial Catalog=AtomORM;Integrated Security=False;MultipleActiveResultSets=True;"));
 
 var app = builder.Build();
 

@@ -1,0 +1,12 @@
+C:\Users\temok\Desktop\AtomORM\AtomORM\bin\Debug\net7.0\AtomORM.deps.json
+C:\Users\temok\Desktop\AtomORM\AtomORM\bin\Debug\net7.0\AtomORM.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM\bin\Debug\net7.0\AtomORM.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM\obj\Debug\net7.0\AtomORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temok\Desktop\AtomORM\AtomORM\obj\Debug\net7.0\AtomORM.AssemblyInfoInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM\obj\Debug\net7.0\AtomORM.AssemblyInfo.cs
+C:\Users\temok\Desktop\AtomORM\AtomORM\obj\Debug\net7.0\AtomORM.csproj.CoreCompileInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM\obj\Debug\net7.0\AtomORM.sourcelink.json
+C:\Users\temok\Desktop\AtomORM\AtomORM\obj\Debug\net7.0\AtomORM.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM\obj\Debug\net7.0\refint\AtomORM.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM\obj\Debug\net7.0\AtomORM.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM\obj\Debug\net7.0\ref\AtomORM.dll

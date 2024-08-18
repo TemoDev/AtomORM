@@ -1,0 +1,16 @@
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\bin\Debug\net8.0\AtomORM.Abstractions.deps.json
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\bin\Debug\net8.0\AtomORM.Abstractions.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\bin\Debug\net8.0\AtomORM.Abstractions.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\bin\Debug\net8.0\AtomORM.Shared.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\bin\Debug\net8.0\AtomORM.Shared.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\AtomORM.Abstractions.csproj.AssemblyReference.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\AtomORM.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\AtomORM.Abstractions.AssemblyInfoInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\AtomORM.Abstractions.AssemblyInfo.cs
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\AtomORM.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\AtomORM.Abstractions.sourcelink.json
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\AtomORM..F5A8B895.Up2Date
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\AtomORM.Abstractions.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\refint\AtomORM.Abstractions.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\AtomORM.Abstractions.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net8.0\ref\AtomORM.Abstractions.dll

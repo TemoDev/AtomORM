@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net8.0": {
+      "AtomORM.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/AtomORM.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AtomORM.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AtomORM.Shared/1.0.0": {
+      "type": "project",
+      "path": "../AtomORM.Shared/AtomORM.Shared.csproj",
+      "msbuildProject": "../AtomORM.Shared/AtomORM.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net8.0": [
+      "AtomORM.Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\temok\\.nuget\\packages\\": {}
@@ -24,16 +43,20 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "projectReferences": {}
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\temok\\Desktop\\AtomORM\\AtomORM.Shared\\AtomORM.Shared.csproj": {
+              "projectPath": "C:\\Users\\temok\\Desktop\\AtomORM\\AtomORM.Shared\\AtomORM.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -43,8 +66,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -56,26 +79,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.17, 7.0.17]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

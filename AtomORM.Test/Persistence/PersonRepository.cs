@@ -8,9 +8,9 @@ public class PersonRepository
         _testAtomContext = testAtomContext;
     }
 
-    public void ReadValues()
-    {
-        _testAtomContext.stringProperty.LoadEntity();
-    }
+    // public void ReadValues()
+    // {
+    //     _testAtomContext.stringProperty.LoadEntity();
+    // }
     
-}
+}   

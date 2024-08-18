@@ -12,4 +12,5 @@ C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\ref\AtomORM.Core.dl
 C:\Users\temok\Desktop\AtomORM\AtomORM.Core\bin\Debug\net7.0\AtomORM.Abstractions.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.Core\bin\Debug\net7.0\AtomORM.Abstractions.pdb
 C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.csproj.AssemblyReference.cache
-C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.csproj.CopyComplete
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.sourcelink.json
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM..197CADE0.Up2Date

@@ -29,7 +29,6 @@ C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\staticwebassets.pac
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\scopedcss\bundle\AtomORM.Test.styles.css
-C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\AtomORM.Test.csproj.CopyComplete
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\AtomORM.Test.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\refint\AtomORM.Test.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\AtomORM.Test.pdb
@@ -37,3 +36,5 @@ C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\AtomORM.Test.genrun
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\ref\AtomORM.Test.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\bin\Debug\net7.0\AtomORM.Abstractions.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\bin\Debug\net7.0\AtomORM.Abstractions.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\AtomORM.Test.sourcelink.json
+C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\AtomORM..A485536A.Up2Date

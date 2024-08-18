@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AtomORM.Abstractions/1.0.0": {
+        "dependencies": {
+          "AtomORM.Shared": "1.0.0"
+        },
+        "runtime": {
+          "AtomORM.Abstractions.dll": {}
+        }
+      },
+      "AtomORM.Shared/1.0.0": {
+        "runtime": {
+          "AtomORM.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtomORM.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtomORM.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

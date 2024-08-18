@@ -1,0 +1,12 @@
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\bin\Debug\net8.0\AtomORM.Shared.deps.json
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\bin\Debug\net8.0\AtomORM.Shared.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\bin\Debug\net8.0\AtomORM.Shared.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\obj\Debug\net8.0\AtomORM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\obj\Debug\net8.0\AtomORM.Shared.AssemblyInfoInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\obj\Debug\net8.0\AtomORM.Shared.AssemblyInfo.cs
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\obj\Debug\net8.0\AtomORM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\obj\Debug\net8.0\AtomORM.Shared.sourcelink.json
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\obj\Debug\net8.0\AtomORM.Shared.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\obj\Debug\net8.0\refint\AtomORM.Shared.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\obj\Debug\net8.0\AtomORM.Shared.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Shared\obj\Debug\net8.0\ref\AtomORM.Shared.dll

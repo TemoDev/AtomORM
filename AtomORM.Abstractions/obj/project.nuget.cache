@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YfouLkQCHsHuI327JKqTWIU1huR/S/S3ybEbyKJev8FwKh7domoomA6kM4H40RdLUSSYZAojpIJWW1zb9wZr6g==",
+  "dgSpecHash": "olT6ui5W+q/u6nE1NLYso1BzWICzXAv7N6Err/uEPGsPVKYi328S0278EniXVbg6rz/YL3VOs8eThoX84ctK+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\temok\\Desktop\\AtomORM\\AtomORM.Abstractions\\AtomORM.Abstractions.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\temok\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\temok\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\temok\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

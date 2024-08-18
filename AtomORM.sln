@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomORM.Test", "AtomORM.Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomORM.Abstractions", "AtomORM.Abstractions\AtomORM.Abstractions.csproj", "{658948C4-02DC-4A1C-9EE5-7163FC56FE61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomORM.Shared", "AtomORM.Shared\AtomORM.Shared.csproj", "{B9FD28BD-3A6A-4754-8704-B5C642FBA3C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{658948C4-02DC-4A1C-9EE5-7163FC56FE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{658948C4-02DC-4A1C-9EE5-7163FC56FE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{658948C4-02DC-4A1C-9EE5-7163FC56FE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FD28BD-3A6A-4754-8704-B5C642FBA3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FD28BD-3A6A-4754-8704-B5C642FBA3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FD28BD-3A6A-4754-8704-B5C642FBA3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FD28BD-3A6A-4754-8704-B5C642FBA3C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

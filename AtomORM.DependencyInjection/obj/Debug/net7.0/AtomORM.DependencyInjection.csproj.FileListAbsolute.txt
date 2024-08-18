@@ -8,10 +8,11 @@ C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\Atom
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\AtomORM.DependencyInjection.AssemblyInfoInputs.cache
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\AtomORM.DependencyInjection.AssemblyInfo.cs
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\AtomORM.DependencyInjection.csproj.CoreCompileInputs.cache
-C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\AtomORM.DependencyInjection.csproj.CopyComplete
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\AtomORM.DependencyInjection.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\refint\AtomORM.DependencyInjection.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\AtomORM.DependencyInjection.pdb
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\ref\AtomORM.DependencyInjection.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\bin\Debug\net7.0\AtomORM.Abstractions.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\bin\Debug\net7.0\AtomORM.Abstractions.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\AtomORM.DependencyInjection.sourcelink.json
+C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\AtomORM..4F1AA7E9.Up2Date
