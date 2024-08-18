@@ -13,3 +13,5 @@ C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\Atom
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\refint\AtomORM.DependencyInjection.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\AtomORM.DependencyInjection.pdb
 C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\obj\Debug\net7.0\ref\AtomORM.DependencyInjection.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\bin\Debug\net7.0\AtomORM.Abstractions.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.DependencyInjection\bin\Debug\net7.0\AtomORM.Abstractions.pdb

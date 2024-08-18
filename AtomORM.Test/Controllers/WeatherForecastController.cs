@@ -1,3 +1,4 @@
+using AtomORM.Core;
 using AtomORM.Test.Persistence;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,6 +20,8 @@ public class WeatherForecastController : ControllerBase
     public IActionResult ReadString()
     {
         _testAtomContext.GetConnectionString();
+        
+        _testAtomContext.MapEntities();
         return Ok();
     }
 }

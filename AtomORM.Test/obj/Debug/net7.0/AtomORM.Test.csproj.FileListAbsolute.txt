@@ -35,3 +35,5 @@ C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\refint\AtomORM.Test
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\AtomORM.Test.pdb
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\AtomORM.Test.genruntimeconfig.cache
 C:\Users\temok\Desktop\AtomORM\AtomORM.Test\obj\Debug\net7.0\ref\AtomORM.Test.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Test\bin\Debug\net7.0\AtomORM.Abstractions.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Test\bin\Debug\net7.0\AtomORM.Abstractions.pdb

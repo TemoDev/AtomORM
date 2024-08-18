@@ -75,7 +75,15 @@
           }
         }
       },
+      "AtomORM.Abstractions/1.0.0": {
+        "runtime": {
+          "AtomORM.Abstractions.dll": {}
+        }
+      },
       "AtomORM.Core/1.0.0": {
+        "dependencies": {
+          "AtomORM.Abstractions": "1.0.0"
+        },
         "runtime": {
           "AtomORM.Core.dll": {}
         }
@@ -152,6 +160,11 @@
       "sha512": "sha512-OvbvxX+wL8skxTBttcBsVxdh73Fag4xwqEU2edh4JMn7Ws/xJHnY/JB1e9RoCb6XpDxUF3hD9A0Z1lEUx40Pfw==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.5.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    },
+    "AtomORM.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "AtomORM.Core/1.0.0": {
       "type": "project",

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4ETQzzarP+yPHEByopPkEz5KQxKW4PNqi/Q6UrFDietnpu7x8h71lFbCqkoEdiXbb4G56H4jnZH7mKXpOzX4NA==",
+  "dgSpecHash": "TLr9jtVGXw5b8VZqmg0rhwmbSDad4qI8J4XL/unWqnUyZFW24hY3PiCqyTNcQEfK4/UsuXTvCKGygBza7iT3hA==",
   "success": true,
   "projectFilePath": "C:\\Users\\temok\\Desktop\\AtomORM\\AtomORM.DependencyInjection\\AtomORM.DependencyInjection.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\temok\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+    "C:\\Users\\temok\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\temok\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\temok\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\temok\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

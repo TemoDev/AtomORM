@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "AtomORM.Core/1.0.0": {
+        "dependencies": {
+          "AtomORM.Abstractions": "1.0.0"
+        },
         "runtime": {
           "AtomORM.Core.dll": {}
+        }
+      },
+      "AtomORM.Abstractions/1.0.0": {
+        "runtime": {
+          "AtomORM.Abstractions.dll": {}
         }
       }
     }
   },
   "libraries": {
     "AtomORM.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtomORM.Abstractions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,0 +1,11 @@
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\bin\Debug\net7.0\AtomORM.Abstractions.deps.json
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\bin\Debug\net7.0\AtomORM.Abstractions.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\bin\Debug\net7.0\AtomORM.Abstractions.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net7.0\AtomORM.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net7.0\AtomORM.Abstractions.AssemblyInfoInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net7.0\AtomORM.Abstractions.AssemblyInfo.cs
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net7.0\AtomORM.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net7.0\AtomORM.Abstractions.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net7.0\refint\AtomORM.Abstractions.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net7.0\AtomORM.Abstractions.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Abstractions\obj\Debug\net7.0\ref\AtomORM.Abstractions.dll

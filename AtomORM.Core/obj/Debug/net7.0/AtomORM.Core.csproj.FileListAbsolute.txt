@@ -9,3 +9,7 @@ C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\refint\AtomORM.Core.dll
 C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.pdb
 C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\ref\AtomORM.Core.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\bin\Debug\net7.0\AtomORM.Abstractions.dll
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\bin\Debug\net7.0\AtomORM.Abstractions.pdb
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.csproj.AssemblyReference.cache
+C:\Users\temok\Desktop\AtomORM\AtomORM.Core\obj\Debug\net7.0\AtomORM.Core.csproj.CopyComplete
